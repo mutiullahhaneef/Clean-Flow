@@ -29,33 +29,6 @@
 
 </div>
 
----
-
-## 📸 Preview
-
-<div align="center">
-<table>
-  <tr>
-    <td align="center"><b>🏠 Dashboard Overview</b></td>
-    <td align="center"><b>🤖 AI Assistant</b></td>
-  </tr>
-  <tr>
-    <td><img src="docs/screenshots/dashboard.png" alt="Dashboard" width="100%"/></td>
-    <td><img src="docs/screenshots/ai_assistant.png" alt="AI Assistant" width="100%"/></td>
-  </tr>
-  <tr>
-    <td align="center"><b>🔧 Cleaning Studio</b></td>
-    <td align="center"><b>📊 Health Radar</b></td>
-  </tr>
-  <tr>
-    <td><img src="docs/screenshots/cleaning_studio.png" alt="Cleaning Studio" width="100%"/></td>
-    <td><img src="docs/screenshots/health_radar.png" alt="Health Radar" width="100%"/></td>
-  </tr>
-</table>
-</div>
-
----
-
 ## ⚡ What It Does
 
 <div align="center">
