@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+data_cleaner_env/
+.tmp/
+credentials.json
+token.json

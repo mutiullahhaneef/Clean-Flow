@@ -1,0 +1,180 @@
+## GitHub Repository Config — Quick Setup Guide
+
+======================================================
+FILE: .github/ISSUE_TEMPLATE/bug_report.md
+======================================================
+
+---
+name: Bug Report
+about: Something broken? Let's fix it.
+title: "[BUG] "
+labels: bug
+assignees: ''
+---
+
+**Describe the bug**
+A clear and concise description of what the bug is.
+
+**To Reproduce**
+Steps to reproduce:
+1. Go to '...'
+2. Upload '...'
+3. Click '...'
+4. See error
+
+**Expected behavior**
+What you expected to happen.
+
+**Screenshots**
+If applicable, add screenshots.
+
+**Environment:**
+- OS: [e.g. macOS 14, Windows 11, Ubuntu 22.04]
+- Python version: [e.g. 3.11]
+- Streamlit version: [e.g. 1.32]
+- Browser: [e.g. Chrome 122]
+
+**Additional context**
+Paste any error tracebacks here.
+
+======================================================
+FILE: .github/ISSUE_TEMPLATE/feature_request.md
+======================================================
+
+---
+name: Feature Request
+about: Got an idea? We want to hear it.
+title: "[FEATURE] "
+labels: enhancement
+assignees: ''
+---
+
+**Is your feature request related to a problem?**
+A clear description of the problem. E.g. "I always have to manually..."
+
+**Describe the solution you'd like**
+A clear description of what you want to happen.
+
+**Describe alternatives you've considered**
+Any alternative solutions or features you've considered.
+
+**Additional context**
+Add any mockups, screenshots, or examples here.
+
+======================================================
+FILE: .github/PULL_REQUEST_TEMPLATE.md
+======================================================
+
+## Description
+What does this PR do? Why is it needed?
+
+Closes # (issue number)
+
+## Type of Change
+- [ ] Bug fix (non-breaking change that fixes an issue)
+- [ ] New feature (non-breaking change that adds functionality)
+- [ ] Breaking change (fix or feature that would cause existing functionality to break)
+- [ ] Documentation update
+
+## How Has This Been Tested?
+Describe how you tested your changes.
+
+## Checklist
+- [ ] My code follows the project's style guidelines
+- [ ] I have performed a self-review of my code
+- [ ] I have commented my code where necessary
+- [ ] I have updated the README if needed
+- [ ] My changes generate no new warnings
+- [ ] `streamlit run app.py` runs without errors
+
+======================================================
+FILE: .env.example
+======================================================
+
+# CleanFlow AI — Environment Configuration
+# Copy this file to .env and fill in your values
+# Never commit .env to version control
+
+# Google Gemini API Key
+# Get yours free at: https://aistudio.google.com/
+GOOGLE_API_KEY=your_gemini_api_key_here
+
+======================================================
+FILE: .gitignore
+======================================================
+
+# Environment
+.env
+*.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+.Python
+venv/
+env/
+ENV/
+.venv
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Data files (don't commit user data)
+*.csv
+*.xlsx
+*.parquet
+*.json
+data/
+uploads/
+exports/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Distribution
+dist/
+build/
+*.egg-info/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+======================================================
+REPO DESCRIPTION (paste in GitHub Settings → About)
+======================================================
+
+🧠 AI-powered data cleaning & profiling platform. Transform raw CSVs into production-ready data using Google Gemini Pro — with health scoring, conversational analysis, undo/redo, and 4-format export.
+
+======================================================
+GITHUB TOPICS (paste in Settings → Topics — one per line)
+======================================================
+
+data-cleaning
+data-science
+machine-learning
+generative-ai
+google-gemini
+llm
+streamlit
+pandas
+python
+data-engineering
+data-quality
+data-profiling
+plotly
+pyarrow
+saas
+open-source
+ai-tools
+nlp
+etl
+feature-engineering
