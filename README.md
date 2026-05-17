@@ -25,11 +25,7 @@
 > with **Google Gemini Pro** to transform raw, broken datasets into production-ready data —  
 > fully explainable, inside one unified dark-first workspace.
 
-<br/>
 
-[🚀 Live Demo](#) · [📖 Docs](#installation) · [🐛 Report Bug](../../issues) · [✨ Request Feature](../../issues)
-
-<br/>
 
 </div>
 
@@ -278,9 +274,9 @@ Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for more informa
 
 **Your Name**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0066ff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=03050f)](https://linkedin.com/in/YOUR_PROFILE)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-00dc99?style=for-the-badge&logo=github&logoColor=white&labelColor=03050f)](https://github.com/YOUR_USERNAME)
-[![Email](https://img.shields.io/badge/Email-Contact-aa44ff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=03050f)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0066ff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=03050f)](https://www.linkedin.com/in/mutiullahhaneef/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-00dc99?style=for-the-badge&logo=github&logoColor=white&labelColor=03050f)](https://github.com/mutiullahhaneef)
+[![Email](https://img.shields.io/badge/Email-Contact-aa44ff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=03050f)](mailto:haneefmutiullah@email.com)
 
 ---
 
